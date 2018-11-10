@@ -1,0 +1,16 @@
+p{
+    width: 200px;
+}
+.gifsDiv{
+    width: 200px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+#gifs{
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+}
